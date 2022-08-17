@@ -10,6 +10,7 @@ body{
     color: #514949;
     text-align: left;
     background-color: #fff;
+    align-content: centre;
 }
 .first{
     justify-items: center;
